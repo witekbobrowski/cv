@@ -1,23 +1,31 @@
-\documentclass[10pt,a4paper,sans]{moderncv}
+\documentclass[10pt,a4paper]{moderncv}
 
+% moderncv style
 \moderncvstyle{fancy}
 
-\usepackage{fullpage}
+% packages
+\usepackage{geometry}
+\usepackage{fontawesome}
 \usepackage[utf8]{inputenc}
 
-\renewcommand{\familydefault}{\sfdefault}
-\setlength{\hintscolumnwidth}{3.25cm}
+% Margin options
+\geometry{top=1.5cm}
+\geometry{bottom=1.5cm}
+\geometry{left=1.5cm}
+\geometry{right=1.5cm}
 
-\name{Witek Bobrowski}{}
-\title{\texttt{iOS\ developer}}
+% Personal info
+\name{Witek}{Bobrowski}
+\address{Krakow, Poland.}
+\title{\texttt{iOS developer}}
 \extrainfo{18.06.1994}
 \email{witek\\@bobrowski.com.pl}
 \social[github]{witekbobrowski}
 
+% Document
 \begin{document}
 \makecvtitle{}
 
-% import sections. ex:
-%\input{sections/education}
+\input{sections/education}
 
 \end{document}
