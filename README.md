@@ -3,10 +3,9 @@
     <a><img alt="LaTeX" src="https://img.shields.io/badge/Built_with-LaTeX-blue.svg"></a>
     <a><img alt="Package" src="https://img.shields.io/badge/package-moderncv-orange.svg"></a>
     <a><img alt="Font" src="https://img.shields.io/badge/Font-Lato-lightgray.svg"></a>
-    <a><img alt="Employment" src="https://img.shields.io/badge/availability-employed-red.svg"></a>
 </p>
 
-My personal Curriculum vitae build using __LaTeX__ and _moderncv_ package.
+Resume built using LaTeX and moderncv.
 
 # Contents
 
@@ -50,7 +49,7 @@ If you really want to build it from source, make sure to have following dependen
 
 ### Building
 
-##### Simple
+#### Simple
 
 To compile the document using lualatex run:
 
@@ -58,7 +57,7 @@ To compile the document using lualatex run:
 $ lualatex witekbobrowski-cv.tex
 ```
 
-##### Customised
+#### Customised
 
 What I like to do is to supply lualatex with these extra options for customised behaviour:
 
