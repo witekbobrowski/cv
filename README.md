@@ -44,10 +44,9 @@ If you really want to build it from source, make sure to have following dependen
 
 - [moderncv](https://www.ctan.org/pkg/moderncv) package that makes this document look fancy.
 
-- [lualatex](http://luatex.org/download.html) compilation tool of choice, feel free to use different one (you may encounter some errors).
-
 - [Lato](http://www.latofonts.com/lato-free-fonts/#download) font to make it even prettier.
 
+- [lualatex](http://luatex.org/download.html) compilation tool of choice, feel free to use different one (you may encounter some errors).
 
 ### Building
 
