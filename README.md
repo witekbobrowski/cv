@@ -2,7 +2,7 @@
 <p align=center>
     <a><img alt="LaTeX" src="https://img.shields.io/badge/Built_with-LaTeX-blue.svg"></a>
     <a><img alt="Package" src="https://img.shields.io/badge/package-moderncv-orange.svg"></a>
-    <a><img alt="Font" src="https://img.shields.io/badge/Font-Lato-lightgray.svg"></a>
+    <a><img alt="Font" src="https://img.shields.io/badge/Font-Source Sans Pro-lightgray.svg"></a>
 </p>
 
 Resume built using LaTeX and moderncv.
