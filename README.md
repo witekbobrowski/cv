@@ -6,6 +6,7 @@
 </p>
 
 Resume built using LaTeX and moderncv.
+> [`witekbobrowski-cv.pdf`](builds/witekbobrowski-cv.pdf)
 
 # Contents
 
