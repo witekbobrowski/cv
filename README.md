@@ -1,4 +1,10 @@
 # Curriculum vitae
+
+<p align=center>
+<a href="">
+<img alt="screenshot" src="assets/screenshot.png">
+</a>
+</p>
 <p align=center>
     <a><img alt="LaTeX" src="https://img.shields.io/badge/Built_with-LaTeX-blue.svg"></a>
     <a><img alt="Package" src="https://img.shields.io/badge/package-moderncv-orange.svg"></a>
