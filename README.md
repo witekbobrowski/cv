@@ -14,19 +14,22 @@
 Resume built using LaTeX and moderncv.
 > [`witekbobrowski-cv.pdf`](builds/witekbobrowski-cv.pdf)
 
-# Contents
+## Contents
 
 ```
 .
 ├── LICENSE
 ├── README.md
+├── assets
+│   └── screenshot.png
 ├── builds
-│   └── witekbobrowski-cv.pdf
+│   └── witekbobrowski-cv.pdf
 ├── sections
-│   ├── education.tex
-│   ├── languages.tex
-│   ├── skills.tex
-│   └── work.tex
+│   ├── education.tex
+│   ├── experience.tex
+│   ├── languages.tex
+│   ├── scholarships.tex
+│   └── skills.tex
 └── witekbobrowski-cv.tex
 ```
 
@@ -40,7 +43,7 @@ Very simple structure so only few things worth explaining here:
 
 - [`witekbobrowski-cv.pdf`](builds/witekbobrowski-cv.pdf) is the most recent build of the document. It's also the reason you are here.
 
-# Usage
+## Usage
 
 ### Dependencies
 
@@ -50,7 +53,7 @@ If you really want to build it from source, make sure to have following dependen
 
 - [moderncv](https://www.ctan.org/pkg/moderncv) package that makes this document look fancy.
 
-- [Lato](http://www.latofonts.com/lato-free-fonts/#download) font to make it even prettier.
+- [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) font to make it even prettier.
 
 - [lualatex](http://luatex.org/download.html) compilation tool of choice, feel free to use different one (you may encounter some errors).
 
