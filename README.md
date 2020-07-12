@@ -2,7 +2,7 @@
 
 <p align=center>
 <a href="">
-<img alt="screenshot" src="assets/screenshot.png">
+<img alt="screenshot" src="https://user-images.githubusercontent.com/18266391/87251999-11121380-c470-11ea-9098-492129351480.png">
 </a>
 </p>
 <p align=center>
@@ -20,8 +20,6 @@ Resume built using LaTeX and moderncv.
 .
 ├── LICENSE
 ├── README.md
-├── assets
-│   └── screenshot.png
 ├── builds
 │   └── witekbobrowski-cv.pdf
 ├── sections
